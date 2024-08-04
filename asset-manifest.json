@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/iandev-site/static/css/main.8a008e0b.css",
+    "main.js": "/iandev-site/static/js/main.74b49a3e.js",
+    "static/js/453.63280706.chunk.js": "/iandev-site/static/js/453.63280706.chunk.js",
+    "static/media/fontastic-image.png": "/iandev-site/static/media/fontastic-image.f3b20cab783db2dc039a.png",
+    "static/media/JS-Drumkit.png": "/iandev-site/static/media/JS-Drumkit.f518aad43e4c10eeb6cb.png",
+    "static/media/profile-photo.jpg": "/iandev-site/static/media/profile-photo.c7fba50eed3c7919b53f.jpg",
+    "static/media/barblend.png": "/iandev-site/static/media/barblend.93eda3c40cc1050d02b7.png",
+    "index.html": "/iandev-site/index.html",
+    "main.8a008e0b.css.map": "/iandev-site/static/css/main.8a008e0b.css.map",
+    "main.74b49a3e.js.map": "/iandev-site/static/js/main.74b49a3e.js.map",
+    "453.63280706.chunk.js.map": "/iandev-site/static/js/453.63280706.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a008e0b.css",
+    "static/js/main.74b49a3e.js"
+  ]
+}
